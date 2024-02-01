@@ -64,3 +64,14 @@ find ./ -type f -name "*.java" > compfiles.txt ; javac -d build @compfiles.txt
 java -cp build miPrincipal.Principal
 ```
 Los comandos anteriores están considerados para un ambiente Linux
+
+## Mostrar el desktop-lite
+
+1. Mostrar la terminal con `Ctrl+ñ`.
+2. Dar clic en la pestaña ```PUERTOS``` y localizar el puerto ```desktop(6080)```.
+3. En la columna ```Dirección reenviada``` dar clic en el Globo terráqueo para abrir una pestaña del navegador donde estará el *desktop-lite*. 
+4. En la nueva pestaña abierta se mostrará el mensaje *noVNC* y dar clic en el botón ```Conectar```.
+5. Capturar la contraseña ```vscode``` y dar clic en el botón ```Aceptar```.
+6. Se mostrará un escritorio simple con una barra de tarea inferior y un menu de tareas en la esquina inferior izquierda.
+
+A partir de este momento, toda la programación Java-GUI se mostrará en el *desktop-lite* (simulará un escritorio de un sistema de Ventanas).
