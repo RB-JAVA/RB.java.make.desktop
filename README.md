@@ -1,6 +1,6 @@
-# Proyecto - Java Básico
+# Proyecto - Java Básico con Desktop 
 
-Plantilla básica para proyecto de Java
+Plantilla básica para proyecto de Java con interfaces de usuario GUI
 
 ## Diagrama de clases
 [Editor en línea](https://mermaid.live/)
