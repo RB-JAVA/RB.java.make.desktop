@@ -75,3 +75,5 @@ Los comandos anteriores están considerados para un ambiente Linux
 6. Se mostrará un escritorio simple con una barra de tarea inferior y un menu de tareas en la esquina inferior izquierda.
 
 A partir de este momento, toda la programación Java-GUI se mostrará en el *desktop-lite* (simulará un escritorio de un sistema de Ventanas).
+
+[Referencia](https://github.com/devcontainers/features/tree/main/src/desktop-lite)
