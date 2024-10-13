@@ -72,6 +72,7 @@ Los comandos anteriores están considerados para un ambiente Linux
 3. En la columna ```Dirección reenviada``` dar clic en el Globo terráqueo para abrir una pestaña del navegador donde estará el *desktop-lite*. O bien dar clic en ```Abrir en Explorador Simple``` para mostrar el *desktop-lite* en un navegador sencillo incrustado en la misma IDE.
 4. En la nueva pestaña abierta se mostrará el mensaje *noVNC* y dar clic en el botón ```Conectar```.
 
+
 A partir de este momento, toda la programación Java-GUI se mostrará en el *desktop-lite* (simulará un escritorio de un sistema de Ventanas).
 
 [Referencia](https://github.com/devcontainers/features/tree/main/src/desktop-lite)
