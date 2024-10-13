@@ -68,7 +68,7 @@ Los comandos anteriores están considerados para un ambiente Linux
 ## Mostrar el desktop-lite
 
 1. Mostrar la terminal con `Ctrl+ñ`.
-2. Dar clic en la pestaña ```PUERTOS``` y localizar el puerto ```desktop(6080)```.
+2. Dar clic en la pestaña ```PUERTOS``` y agregar el puerto ```6080```. Se agregará una URL.
 3. En la columna ```Dirección reenviada``` dar clic en el Globo terráqueo para abrir una pestaña del navegador donde estará el *desktop-lite*. 
 4. En la nueva pestaña abierta se mostrará el mensaje *noVNC* y dar clic en el botón ```Conectar```.
 5. Capturar la contraseña ```vscode``` y dar clic en el botón ```Aceptar```.
